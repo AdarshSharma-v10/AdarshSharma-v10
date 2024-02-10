@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/36594527/117921831-c3d32c80-b334-11eb-8bab-a423ac34272a.png)]
+![MasterHead](https://user-images.githubusercontent.com/36594527/117921831-c3d32c80-b334-11eb-8bab-a423ac34272a.png)
 
 
 <h1 align="center">Hi 👋, I'm Adarsh Sharma</h1>
