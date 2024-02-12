@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/4D3DhzVOu-oAAAAC/press-any-key-any-key.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshsharma-v10&label=Profile%20views&color=0e75b6&style=flat" alt="adarshsharma-v10" /> </p>
+
 
 - 👯 Connect me to collaborate
 - 🏛️ You dont have buit it or come to github to clone it
