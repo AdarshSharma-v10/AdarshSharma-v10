@@ -8,8 +8,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshsharma-v10&label=Profile%20views&color=0e75b6&style=flat" alt="adarshsharma-v10" /> </p>
 
-- 👯 Connect me to collaborate on open source projects
-- 🏛️ You dont have buit it
+- 👯 Connect me to collaborate
+- 🏛️ You dont have buit it or come to github to clone it
 - 📫 Reach me **AdarshSharma.rl@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
