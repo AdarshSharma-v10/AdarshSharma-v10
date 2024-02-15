@@ -1,9 +1,4 @@
-![MasterHead](https://github.com/AdarshSharma-v10/AdarshSharma-v10/assets/119839830/47150f80-e36f-4fd2-83f0-727dd0f2f373)
-
-
-
-
-
+![Hi wait Banner is loading](https://github.com/AdarshSharma-v10/AdarshSharma-v10/blob/main/git%20gif.gif)
 
 <h1 align="center">Hi 👋, I'm Adarsh Sharma</h1>
 <h3 align="center">Software Engineer | Tech Wizard | Building Solutions with Code & Curiosity | Deliver Successful Projects |</h3>
@@ -13,7 +8,7 @@
 
 
 - 👯 Connect me to collaborate
-- 🏛️ You dont have buit it or come to github to clone it
+- 🏛️ You don't have built it
 - 📫 Reach me **AdarshSharma.rl@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
